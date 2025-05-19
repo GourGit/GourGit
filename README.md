@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! 👋 Hi there! I'm Gour Sundar Basak</h1><br><h3 align="left">I'm currently a student from India, passionate about learning and building real-world tech solutions. I enjoy exploring areas like web development, programming in C, and working on projects that help me grow my skills and contribute to the community. I'm always excited to collaborate, learn new technologies, and share what I know.</h3>
+<h1 align="left">👋Hi there! I'm Gour Sundar Basak</h1><br><h3 align="left">I'm currently a student from India, passionate about learning and building real-world tech solutions. I enjoy exploring areas like web development, programming in C, and working on projects that help me grow my skills and contribute to the community. I'm always excited to collaborate, learn new technologies, and share what I know.</h3>
 
 ###
 
