@@ -107,6 +107,7 @@ Here are some projects I am working on or planning to improve:
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER_ID&count=5&unique=true" alt="Spotify recently played" />
   </a>
 </div>
+
 ---
 
 ## ✨ Quote
