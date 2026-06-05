@@ -103,7 +103,7 @@ Here are some projects I am working on or planning to improve:
 ## 🎧 Spotify Activity
 
 <div align="center">
-  <a href="https://open.spotify.com/user/312sioh4yi6crobvr772r2kn27nu?si=da6274dc4291434d">
+  <a href="https://spotify-recently-played-readme.vercel.app/api?user=312sioh4yi6crobvr772r2kn27nu">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER_ID&count=5&unique=true" alt="Spotify recently played" />
   </a>
 </div>
